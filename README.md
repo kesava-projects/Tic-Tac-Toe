@@ -2,10 +2,10 @@
 A small two player game
 
 # languages 
-HTML
-CSS 
+HTML,
+CSS,
 JS
 
 # concepts
-CSS-flexbox
+CSS-flexbox,
 JS-DOM(document object model)
