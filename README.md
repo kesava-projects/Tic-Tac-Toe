@@ -11,4 +11,4 @@ CSS-flexbox,
 JS-DOM(document object model)
 
 # reference
-MDN-docs(for Development)
+MDN-docs(FrontEnd Projects)
