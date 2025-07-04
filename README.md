@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-WebPage link:https://harmonious-dusk-f8a676.netlify.app/
+WebPage link: https://harmonious-dusk-f8a676.netlify.app/
 
 # languages 
 HTML,
